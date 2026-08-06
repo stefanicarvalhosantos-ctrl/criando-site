@@ -1,1 +1,16 @@
+<!DOCTYPE html>
 
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Document</title>
+</head>
+<body>
+<h1>Meu blog tech</h1><h2>Meu primeiro post</h2>  
+<p>Vou compartilhar conhecimentos sobre meu dia a dia</p>
+ <p>Por: Stefani vitoria</p> 
+  <p>Boas-vindas ao meu novo blog! Aqui vou compartilhar dicas de programação do dia a dia.</p>
+  <p> O despertador toca 5:50. Como em quase todas as manhãs, a primeira coisa que faço é tomar banho, por o uniforme da escola, arrumar o cabelo, material escolar do dia, e vou direto para a cozinha. O cheiro de café passado é o único incentivo que preciso para começar o dia. 6:50 sai de casa e vou para escola, chego da escola 12:30 almoço lavo a louça e limpo a casa, e pro fim da tarde tomo outro banho, 21:00 vou dormir para ir a escola no dia seguinte.<P><a href="https://www.wikipedia.org">Acessar o site</a>    
+</body>
+</html>
