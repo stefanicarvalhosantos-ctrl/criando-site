@@ -1,16 +1,32 @@
 <!DOCTYPE html>
-
 <html lang="pt-br">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Document</title>
-</head>
-<body>
-<h1>Meu blog tech</h1><h2>Meu primeiro post</h2>  
-<p>Vou compartilhar conhecimentos sobre meu dia a dia</p>
- <p>Por: Stefani vitoria</p> 
-  <p>Boas-vindas ao meu novo blog! Aqui vou compartilhar dicas de programacao do dia a dia.</p>
-  <p> O despertador toca 5:50. Como em quase todas as manhas, a primeira coisa que faco e ir tomar banho, por o uniforme da escola, arrumar o cabelo, material escolar do dia, e vou direto para a cozinha. O cheiro de café passado é o único incentivo que preciso para começar o dia. 6:50 sai de casa e vou para escola, chego da escola 12:30 almoço lavo a louça e limpo a casa, e pro fim da tarde tomo outro banho, 21:00 vou dormir para ir a escola no dia seguinte.<P><a href="https://www.wikipedia.org">Acessar o site</a>    
-</body>
+  <head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="./style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pen</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com"&gt;
+<link rel="preconnect" href="https://fonts.gstatic.com&quot; crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Molle:ital@1&display=swap&quot; rel="stylesheet">
+  </head>
+  <body>
+    <h1>Combate ao Bullying na escola</h1>
+    <h2> O que é bullying</h2>
+    <p> Bullying é um conjunto de violências que se repetem por algum período. Geralmente, são agressões verbais, físicas e psicológicas que humilham, intimidam e traumatizam a vítima. Os danos causados pelo bullying podem ser profundos, como a depressão, distúrbios comportamentais e até o suicídio. Geralmente, acontece na escola.
+    </p>
+    <a href="https://brasilescola.uol.com.br/sociologia/bullying.htm"target="blank">Fonte</a&gt;
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZaU7b5XQP1Bk84SkSwIJrbdL3zpFIV6XROHXZLvEgJw&s=10"alt="Imagem de alguns meninos apontando os dedos para um menino sentado no chão de cabeça baixa">
+         <h2>Canais de denuncia</h2>
+    <ul>
+    <li>Disque 100</li>
+      <li>
+        <a href="https://www.181.pr.gov.br">Disque 181</a>
+      </li>    
+      <li>central 156</li>
+    </ul>
+
+     <button id='botao_tema'> Modo Escuro </button>
+   
+    <script src="./script.js"></script>
+  </body>
 </html>
